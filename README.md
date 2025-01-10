@@ -116,4 +116,5 @@ I am currently pursuing a degree in Computer Science with a strong interest in t
 - Critical Thinking, Problem-Solving, Adaptability, Teamwork, Decision Making
   Explore my projects and contributions on GitHub:
 
-[GitHub: WasawatBoonporn](https://github.com/IsNName)
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IsNName&show_icons=true&theme=radical)
