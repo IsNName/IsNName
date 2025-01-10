@@ -114,3 +114,6 @@ I am currently pursuing a degree in Computer Science with a strong interest in t
 
 ### **Soft Skills**
 - Critical Thinking, Problem-Solving, Adaptability, Teamwork, Decision Making
+  Explore my projects and contributions on GitHub:
+
+[GitHub: WasawatBoonporn](https://github.com/IsNName)
