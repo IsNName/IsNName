@@ -1,179 +1,173 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=0:4B79A1,100:283E51&height=350&section=header&text=Wasawat%20Boonporn&desc=Innovation%20Through%20Technology&animation=fadeIn&fontColor=fff&fontSize=65&rotate=13&fontAlignY=40&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Wasawat%20Boonporn&fontSize=90&animation=twinkling&fontAlignY=35&desc=Innovating%20Through%20Technology&descSize=20&descAlignY=55&fontColor=d6ace6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Innovation+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6B8AF7&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Innovation+Creator)](https://git.io/typing-svg)
 
-![Tech Border](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-</div>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=〈+About+Me+〉" alt="Section Header" />
-</div>
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=IsNName&show_icons=true&bg_color=0D1117&title_color=4B79A1&text_color=ffffff&icon_color=4B79A1&hide_border=true"/>
-
-```typescript
-const developer = {
-    name: "Wasawat Boonporn",
-    role: "Computer Science Student",
-    specialization: ["AI", "ML", "Web Dev"],
-    education: "Bachelor of Science in CS",
-    passion: "Creating Impactful Technology",
-    teachingExp: ["ChatGPT", "BingAI", "Firefly"],
-    location: "Thailand"
-};
+```js
+{ "code": "for the future, create with passion" }
 ```
 
+</div>
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=IsNName&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/IsNName)
+  
+</div>
+
+<!-- About Me Section -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6B8AF7&center=true&vCenter=true&repeat=false&width=435&lines=%3C%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+About+Me+%2F%3E" alt="About Me" />
+</div>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Wasawat Boonporn"
+        self.role = "Computer Science Student"
+        self.skills = ["AI", "Machine Learning", "Web Development"]
+        self.languages = ["Python", "C", "Java", "Dart"]
+        self.interests = ["Innovation", "Technology", "Research"]
+        self.education = "Bachelor of Science in Computer Science"
+        self.teaching = ["ChatGPT", "BingAI", "Firefly"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's create something amazing together!")
+
+me = Developer()
+me.say_hi()
+```
+
+<!-- Tech Stack Section -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6B8AF7&center=true&vCenter=true&repeat=false&width=435&lines=%3C%F0%9F%92%BB+Tech+Stack+%2F%3E" alt="Tech Stack" />
+
 <div align="center">
 
-![Tech Border](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+### ⚡ Core Technologies
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=〈+Tech+Arsenal+〉" alt="Section Header" />
+[![My Skills](https://skillicons.dev/icons?i=python,c,java,dart,tensorflow,pytorch,vscode,git&theme=dark&perline=4)](https://skillicons.dev)
 
-<table>
-<tr>
-<td align="center">
-<h3>Core Languages</h3>
+### 🌐 Web Development
+[![Web Dev Skills](https://skillicons.dev/icons?i=vue,flask,postgres,html,css,js,figma&theme=dark&perline=4)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=FFD43B)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white&labelColor=ED8B00)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
-</td>
-<td align="center">
-<h3>Web Technologies</h3>
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=35495E)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-</td>
-</tr>
-<tr>
-<td align="center">
-<h3>AI & ML Tools</h3>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-</td>
-<td align="center">
-<h3>Development Tools</h3>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
-</td>
-</tr>
-</table>
-
-![Tech Border](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=〈+Achievement+Matrix+〉" alt="Section Header" />
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="/api/placeholder/120/120" width="120px" />
-<br />
-<strong>🥇 Startup Champion</strong>
-<br />
-Startup Development Program
-<br />
-Rising Star Award 2024
-</td>
-<td align="center">
-<img src="/api/placeholder/120/120" width="120px" />
-<br />
-<strong>🥈 Silver Medalist</strong>
-<br />
-ICDL Digital Challenge
-<br />
-Thailand Representative 2024
-</td>
-<td align="center">
-<img src="/api/placeholder/120/120" width="120px" />
-<br />
-<strong>🎖️ AI Innovation</strong>
-<br />
-AI Thailand Hackathon
-<br />
-Honorable Mention 2024
-</td>
-</tr>
-</table>
+<!-- Achievements Section -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6B8AF7&center=true&vCenter=true&repeat=false&width=435&lines=%3C%F0%9F%8F%86+Achievements+%2F%3E" alt="Achievements" />
+</div>
 
 <div align="center">
 
-![Tech Border](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=〈+Project+Showcase+〉" alt="Section Header" />
+| 🏆 Competition | 🎯 Achievement | 🗓️ Year |
+|:--------------|:---------------|:--------|
+| `Startup Development Program` | Winner & Rising Star Award | 2024 |
+| `ICDL Digital Challenge` | join | 2024 |
+| `AI Thailand Hackathon` | Honorable Mention | 2024 |
+| `Moral Hackathon` | Finalist (Top 18) | 2024 |
+| `EEC Hackathon` | Finalist (Top 10) | 2024 |
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-<h3 align="center">AI Vision System</h3>
+<!-- Projects Section -->
 <div align="center">
-<a href="#" target="_blank"><img src="/api/placeholder/400/300" width="400" alt="project 1"/></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=4B79A1"/>
-<img src="https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&color=4B79A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6B8AF7&center=true&vCenter=true&repeat=false&width=435&lines=%3C%F0%9F%93%82+Projects+%2F%3E" alt="Projects" />
+</div>
+
+### 🤖 AI & Machine Learning
+```javascript
+[
+  {
+    "name": "PM2.5 Prediction System",
+    "tech": ["LSTM", "Prophet", "Time Series Analysis"],
+    "impact": "Environmental monitoring for Laem Chabang"
+  },
+  {
+    "name": "Vision Assistant Platform",
+    "tech": ["TensorFlow", "OpenCV", "Deep Learning"],
+    "impact": "Assisted visually impaired users"
+  },
+  {
+    "name": "Emotion Analysis Suite",
+    "tech": ["NLP", "CNN", "Sentiment Analysis"],
+    "impact": "Real-time emotion detection"
+  }
+]
+```
+
+### 💻 Web Development
+```javascript
+[
+  {
+    "name": "Smart Restaurant System",
+    "tech": ["Vue.js", "Node.js", "PostgreSQL"],
+    "features": ["QR Ordering", "Inventory Management", "Analytics"]
+  },
+  {
+    "name": "Health Monitoring Platform",
+    "tech": ["Flask", "TensorFlow", "WebSocket"],
+    "features": ["Real-time Tracking", "AI Analysis", "Health Insights"]
+  }
+]
+```
+
+<!-- GitHub Stats Section -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6B8AF7&center=true&vCenter=true&repeat=false&width=435&lines=%3C%F0%9F%93%8A+GitHub+Stats+%2F%3E" alt="GitHub Stats" />
+
+<p align="center">
+<a href="https://github.com/IsNName">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IsNName&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IsNName&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-<p><strong>AI-Powered Vision Assistant & Health Monitoring System</strong></p>
+
+<p align="center">
+  <a href="https://github.com/IsNName">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsNName&theme=tokyonight" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IsNName&theme=react-dark&hide_border=true&bg_color=0D1117&line=6B8AF7&point=9376f9)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
-</td>
-<td width="50%">
-<h3 align="center">Smart Restaurant System</h3>
+
+<!-- Connect Section -->
 <div align="center">
-<a href="#" target="_blank"><img src="/api/placeholder/400/300" width="400" alt="project 2"/></a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=vue.js&color=4B79A1"/>
-<img src="https://img.shields.io/badge/DB-PostgreSQL-informational?style=flat&logo=postgresql&color=4B79A1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6B8AF7&center=true&vCenter=true&repeat=false&width=435&lines=%3C%F0%9F%8C%90+Connect+%2F%3E" alt="Connect" />
+
+<p align="center">
+<a href="mailto:wasawat.boonporn@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/wasawatboonporn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://twitter.com/WasawatB">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
 </a>
 </p>
-<p><strong>Full-Stack QR Code Restaurant Management Platform</strong></p>
-</div>
-</td>
-</tr>
-</table>
 
-<div align="center">
+```javascript
+while (true) {
+  console.log("Happy Coding! ✨");
+  break;
+}
+```
 
-![Tech Border](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=〈+GitHub+Analytics+〉" alt="Section Header" />
-
-<table>
-<tr>
-<td>
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=IsNName&theme=github-dark&hide_border=true&stroke=0000"/>
-</td>
-<td>
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsNName&layout=compact&theme=github_dark&hide_border=true"/>
-</td>
-</tr>
-</table>
-
-![Tech Border](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=1000&pause=1000&color=4B79A1&center=true&vCenter=true&repeat=false&width=435&lines=〈+Connect+With+Me+〉" alt="Section Header" />
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasawat.boonporn@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasawatboonporn/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WasawatB)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4B79A1?style=for-the-badge&logo=About.me&logoColor=white)](#)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4B79A1,100:283E51&height=2&section=footer" width="100%"/>
-
-<!-- Virtual Matrix Rain Effect -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
 
 </div>
