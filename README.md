@@ -48,7 +48,6 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 ## 📂 Projects
 
 ### 🤖 AI & Machine Learning
-- **PM2.5 Prediction System** (LSTM, Prophet) - Environmental monitoring for Laem Chabang.
 - **Vision Assistant Platform** (TensorFlow, OpenCV) - Assisted visually impaired users.
 - **Emotion Analysis Suite** (NLP, CNN) - Real-time emotion detection.
 
