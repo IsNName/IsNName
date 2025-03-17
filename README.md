@@ -19,7 +19,7 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 - **Interests:** Innovation, Technology, Research
 - Always exploring and building new things to push the boundaries of technology.
 
-"Thanks for dropping by! Let's create something amazing together!"
+> "Thanks for dropping by! Let's create something amazing together!"
 
 ---
 
@@ -37,23 +37,43 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 
 | Competition | Achievement | Year |
 |-------------|------------|------|
-| Startup Development Program | Winner & Rising Star Award | 2024 |
-| ICDL Digital Challenge | Participant | 2024 |
-| AI Thailand Hackathon | Honorable Mention | 2024 |
-| Moral Hackathon | Finalist (Top 18) | 2024 |
-| EEC Hackathon | Finalist (Top 10) | 2024 |
+| **Startup Development Program** | Winner & Rising Star Award | 2024 |
+| **ICDL Digital Challenge** | Join | 2024 |
+| **AI Thailand Hackathon** | Honorable Mention | 2024 |
+| **Moral Hackathon** | Finalist (Top 18) | 2024 |
+| **EEC Hackathon** | Finalist (Top 10) | 2024 |
 
 ---
 
 ## 📂 Projects
 
 ### 🤖 AI & Machine Learning
-- **Vision Assistant Platform** (TensorFlow, OpenCV) - Assisted visually impaired users.
-- **Emotion Analysis Suite** (NLP, CNN) - Real-time emotion detection.
+- **Alzheimer’s Prevention Project** - Uses Mediapipe for posture analysis to prevent Alzheimer’s.
+- **Emotion Prediction from Images** - Real-time emotion detection using CNN & Haar Cascade.
+- **Emotion Analysis Chatbot** - AI chatbot analyzing text-based emotions.
+- **Neuro Safe Zone: Hand Gesture Detection** - Hand gesture detection for posture correction.
+- **Fruit Image Classification** - CNN model for accurate fruit classification.
+- **Sentiment Analysis Web App** - Analyzes stock-related text using Naive Bayes & Random Forest.
+- **Deep Learning Chatbot** - AI chatbot using TensorFlow for real-time responses.
+- **Sentiment Analysis with Machine Learning** - Uses Naive Bayes to classify user emotions.
 
-### 💻 Web Development
-- **Smart Restaurant System** (Vue.js, Node.js, PostgreSQL) - QR ordering, inventory management, analytics.
-- **Health Monitoring Platform** (Flask, TensorFlow, WebSocket) - Real-time tracking, AI analysis, health insights.
+### 💻 Web & App Development
+- **Shabu Restaurant Web App** - Vue.js + Node.js + PostgreSQL, QR code-based ordering system.
+- **Freelance Job Search Web App** - Connects freelancers & clients without internal messaging.
+- **Office Syndrome Detection App** - AI-powered posture detection to prevent office syndrome.
+- **Diabetes Detection Device** - AI-driven device for blood sugar analysis and monitoring.
+
+### 🎮 Hackathons & Competitions
+- **AI Thailand Hackathon 2024** - Honorable Mention award for vision-assistive tools.
+- **Moral Hackathon** - Developed an app to assist with Office Syndrome detection.
+- **EEC Hackathon** - Created a diabetes detection device with AI-powered analysis.
+- **ICDL Digital Challenge 2024** - Join in AI & Big Data competition.
+
+### 📚 Teaching & Workshops
+- **TA for AI Workshops** - Conducted AI training sessions on ChatGPT, BingAI, and Firefly.
+
+### 🌐 Others
+- **Resume Web Page** - Designed a personal portfolio website.
 
 ---
 
