@@ -23,9 +23,9 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 </div>
 
 ### 💡 Skills & Interests:
-- **Programming Languages:** Python, C, Java, Dart  
-- **Interests:** Innovation, Technology, Research  
-- Always exploring and building new things to push the boundaries of technology.
+- **Programming Languages:** Python, JavaScript, C, Java, Dart  
+- **Interests:** AI, Machine Learning, Web Development, Innovation, Research  
+- Passionate about exploring and building innovative technology solutions.
 
 > "Thanks for dropping by! Let's create something amazing together!"
 
@@ -34,10 +34,11 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 ## 💻 Tech Stack
 
 ### ⚡ Core Technologies
-- **🖥️ Programming:** Python, C, Java, Dart
-- **🤖 AI & Machine Learning:** TensorFlow, PyTorch, scikit-learn, OpenCV
-- **🌍 Web Development:** Vue.js, Flask, PostgreSQL, HTML, CSS, JavaScript, Figma
-- **🛠️ Tools:** VS Code, Git, Docker
+- **🖥️ Programming:** Python, JavaScript, C, Java, Dart
+- **🤖 AI & Machine Learning:** TensorFlow, PyTorch, scikit-learn, OpenCV, Mediapipe, LSTM, Naive Bayes, Random Forest
+- **🌐 Web Development:** Vue.js, Flask, Node.js (Express), PostgreSQL, HTML, CSS, JavaScript, Tailwind CSS, Figma
+- **🛠️ Tools:** VS Code, Git, Docker, Postman, Firebase, Jupyter Notebook, Google Colab
+- **🛡️ DevOps & APIs:** Google Cloud, Hugging Face, OpenAI API, REST API
 
 ---
 
@@ -48,7 +49,7 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 | 🏆 Competition | 🥇 Achievement | 🗓️ Year |
 |-------------|------------|------|
 | **Startup Development Program** | Winner & Rising Star Award | 2024 |
-| **ICDL Digital Challenge** | Join | 2024 |
+| **ICDL Digital Challenge** | Silver Medalist (AI & Big Data, National Level) | 2024 |
 | **AI Thailand Hackathon** | Honorable Mention | 2024 |
 | **Moral Hackathon** | Finalist (Top 18) | 2024 |
 | **EEC Hackathon** | Finalist (Top 10) | 2024 |
@@ -79,7 +80,7 @@ Hello! I'm **Wasawat Boonporn**, a passionate **Computer Science student** with 
 - **AI Thailand Hackathon 2024** - Honorable Mention award for vision-assistive tools.  
 - **Moral Hackathon** - Developed an app to assist with Office Syndrome detection.  
 - **EEC Hackathon** - Created a diabetes detection device with AI-powered analysis.  
-- **ICDL Digital Challenge 2024** - Join in AI & Big Data competition.  
+- **ICDL Digital Challenge 2024** - Silver Medalist in AI & Big Data competition.  
 
 ### 📚 Teaching & Workshops
 - **TA for AI Workshops** - Conducted AI training sessions on ChatGPT, BingAI, and Firefly.  
